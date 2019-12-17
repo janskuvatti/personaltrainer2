@@ -40,7 +40,7 @@ return(
     Add new customer
 </Button>
   <Dialog open={open} onClose={handleClose} aria-labelledby="form-dialog-title">
-    <DialogTitle id="form-dialog-title">Add new car</DialogTitle>
+    <DialogTitle id="form-dialog-title">Add new customer</DialogTitle>
     <DialogContent>
       <TextField
         autoFocus

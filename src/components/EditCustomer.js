@@ -50,7 +50,7 @@ firstname: props.customer.firstname,
     </Button>
     
     <Dialog open={open} onClose={handleClose} aria-labelledby="form-dialog-title">
-    <DialogTitle id="form-dialog-title">Add new car</DialogTitle>
+    <DialogTitle id="form-dialog-title">Edit</DialogTitle>
     <DialogContent>
       <TextField
         autoFocus
