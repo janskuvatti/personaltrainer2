@@ -50,15 +50,7 @@ const ListAllTrainings = () =>{
         Header: "Activity",
         accessor: "activity"
         },
-        {
-            Header: "customer_Firstname",
-      accessor: "customer.lastname"
-
-        },
-            {
-                Header: "customer_Lastname",
-                accessor: "lastname"
-                },
+   
       
                 {
                     sortable: false,
